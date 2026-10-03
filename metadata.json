@@ -1,0 +1,6 @@
+{
+  "name": "CampusFix",
+  "description": "Campus problem reporting and resolution dashboard for students and facilities teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
